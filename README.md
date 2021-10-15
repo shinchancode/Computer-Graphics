@@ -1,7 +1,21 @@
 # Computer-Graphics
-Language C++  
+Language C++ 
 
-Computer Graphics - (SEM-4) - Line Drawing Algorithm (DDA and Bresenham), Bresenham circle drawing, Polygon filling, 2D transformation, Cohen Sutherland polygon clipping and Bezier curve.
+Computer Graphics - (SEM-4)
+
+**[1] Line Drawing Algorithm (DDA and Bresenham)**
+
+**[2] Bresenham circle drawing**
+
+**[3] Polygon filling**
+
+**[4] 2D transformation**
+
+**[5] Cohen Sutherland polygon clipping**
+
+**[6] Bezier curve**
+
+**-----------------------------------------------------------------------------------------------------------------------------------**
 
 **Assignment-1 :**
 
