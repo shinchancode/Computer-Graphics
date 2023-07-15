@@ -1,6 +1,6 @@
 /*AARTI RATHI
 Topic: Implement Bresenham circle drawing algorithm
-My website - https://aartirathi17.herokuapp.com/ */
+My website - https://shinchancode.github.io/3d-react-portfolio/ */
 
 /*Problem Statement :
 Implement Bresenham circle drawing algorithm to draw any object. The object should be
