@@ -1,6 +1,7 @@
 /*AARTI RATHI
 Topic: COHEN SUTHERLAND POLYGON CLIPPING
-My website - https://aartirathi17.herokuapp.com/ */
+My website - https://shinchancode.github.io/3d-react-portfolio/
+*/
 
 /*Problem Statement :
 Implement Cohen Sutherland polygon clipping method to clip the polygon with respect the 
