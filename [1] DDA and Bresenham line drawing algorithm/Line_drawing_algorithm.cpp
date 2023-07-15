@@ -1,6 +1,7 @@
 /*AARTI RATHI
 Topic: Implement DDA and Bresenham line drawing algorithm
-My website - https://aartirathi17.herokuapp.com/ */
+My website - https://shinchancode.github.io/3d-react-portfolio/
+*/
 
 /*Problem Statement :
 
