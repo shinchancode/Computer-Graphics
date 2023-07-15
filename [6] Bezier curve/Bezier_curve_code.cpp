@@ -1,6 +1,7 @@
 /*AARTI RATHI
 Topic: Bezier curve
-My website - https://aartirathi17.herokuapp.com/ */
+My website - https://shinchancode.github.io/3d-react-portfolio/
+*/
 
 /*Problem Statement :
 Generate curve patterns using Bezier curve */
