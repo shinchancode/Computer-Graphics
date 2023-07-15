@@ -1,6 +1,6 @@
 /*AARTI RATHI
 Topic: 2D transformations
-My website - https://aartirathi17.herokuapp.com/ */
+My website - https://shinchancode.github.io/3d-react-portfolio/ */
 
 /*Problem Statement :
 Implement following 2D transformations on the object with respect to axis :
