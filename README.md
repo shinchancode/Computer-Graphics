@@ -1,71 +1,49 @@
-# Computer-Graphics
-Language C++ 
+<h1 align="middle"> :grey_exclamation: Computer-Graphics Lab :grey_exclamation: </h1>
+<p align ="middle"> This is a repository for Computer-Graphics Lab assignments in Second year Information Technology of SPPU! <br>
+<b><i>Do star ⭐ this Repository if you feel it helped & drop a follow!</b></i><br><br>
+:blue_heart: <b> Happy Learning </b> :blue_heart:
+<br></p>
 
+# 
 Computer Graphics - (SEM-4)
 
-**[1] Line Drawing Algorithm (DDA and Bresenham)**
+Language : C++ 
 
-**[2] Bresenham circle drawing**
+Output images are provided in particular assignment's directory
 
-**[3] Polygon filling**
+## [Assignment-1 : Line Drawing Algorithm (DDA and Bresenham)](https://github.com/shinchancode/Computer-Graphics/tree/main/%5B1%5D%20DDA%20and%20Bresenham%20line%20drawing%20algorithm)
+**[1] Implement DDA and Bresenham line drawing algorithm to draw:** 
+**i) Simple Line**
+**ii) Dotted Line**
+**iii) Dashed Line**
+**iv) Solid line ;**
+**using mouse interface Divide the screen in four quadrants with center as (0, 0). The line should work for all the slopes positive as well as negative**
 
-**[4] 2D transformation**
+## [Assignment-2 : Bresenham circle drawing](https://github.com/shinchancode/Computer-Graphics/tree/main/%5B2%5D%20Bresenham%20circle%20drawing%20algorithm)
+**[2] Implement Bresenham circle drawing algorithm to draw any object. The object should be displayed in all the quadrants with respect to center and radius-**
 
-**[5] Cohen Sutherland polygon clipping**
+## [Assignment-3 : Polygon filling](https://github.com/shinchancode/Computer-Graphics/tree/main/%5B3%5D%20Polygon%20filling%20algorithm)
+**[3] Implement the following polygon filling methods :**
 
-**[6] Bezier curve**
+**i) Flood fill / Seed fill**
 
-**-----------------------------------------------------------------------------------------------------------------------------------**
+**ii) Boundary fill ;**
 
-**Assignment-1 :**
+**using mouse click, keyboard interface and menu driven programming**
 
-**-------DDA and Bresenham line drawing algorithm Code---------**
+## [Assignment-4 : 2D transformation](https://github.com/shinchancode/Computer-Graphics/tree/main/%5B4%5D%202D%20Transformation)
+**[4] Implement following 2D transformations on the object with respect to axis :**
 
-![11](https://user-images.githubusercontent.com/72682683/131010014-0bebe9c9-e6ac-46fa-b4b3-e467715f8cd8.png)
-![12](https://user-images.githubusercontent.com/72682683/131010028-019f78bf-dc09-40af-86fa-d6e7b4222c10.png)
+**i) Scaling**
 
-**Assignment-2 :**
+**ii) Rotation about arbitrary point**
 
-**-------Bresenham circle drawing algorithm Code---------**
+**iii) Reflection**
 
-![21](https://user-images.githubusercontent.com/72682683/131010076-f17a7e6e-1241-4db4-8e21-3dc50d826d81.png)
-![22](https://user-images.githubusercontent.com/72682683/131010090-4b32dae2-0b4f-4d08-8c71-9a664ae74810.png)
+**iv) Translation**
 
-**Assignment-3 :**
+## [Assignment-5 : Cohen Sutherland polygon clipping](https://github.com/shinchancode/Computer-Graphics/tree/main/%5B5%5D%20Cohen%20Sutherland%20polygon%20clipping%20method)
+**[5] Implement Cohen Sutherland polygon clipping method to clip the polygon with respect the viewport and window. Use mouse click, keyboard interface.**
 
-**-------Polygon filling methods code---------**
-
-![31](https://user-images.githubusercontent.com/72682683/131010104-38a91af6-7d9d-46d2-aebe-9549df751d7c.png)
-![32](https://user-images.githubusercontent.com/72682683/131010112-7ed0f5a8-25b4-4b79-8f16-4fca5082e8a6.png)
-![33](https://user-images.githubusercontent.com/72682683/131010121-906b710f-5e47-477f-b533-9cb85a18fc4c.png)
-![34](https://user-images.githubusercontent.com/72682683/131010133-4f8531aa-8788-4b6b-9e3c-cfc05d1097fd.png)
-
-**Assignment-4 :**
-
-**-------2-D Tranformation code---------**
-
-![41](https://user-images.githubusercontent.com/72682683/131010145-d64fbed0-95c2-4259-ace5-bd7b1a5af914.png)
-![42](https://user-images.githubusercontent.com/72682683/131010162-113838e4-5da6-4832-ab13-f3f4cd433967.png)
-![43](https://user-images.githubusercontent.com/72682683/131010173-e23c01b1-0eb8-4185-a0aa-36421d526496.png)
-![44](https://user-images.githubusercontent.com/72682683/131010186-d15cdca0-442b-40e2-bde9-47f5be53a768.png)
-![45](https://user-images.githubusercontent.com/72682683/131010196-31c24cb1-f240-4859-aab1-06ba56683753.png)
-![46](https://user-images.githubusercontent.com/72682683/131010204-f319c4ca-f7df-4f6b-bd7b-ee811764b761.png)
-
-**Assignment-5 :**
-
-**-------Cohen Sutherland polygon clipping method code---------**
-
-![51](https://user-images.githubusercontent.com/72682683/131010220-e2370e0e-eebe-401e-a2bc-0430cd3e5492.png)
-![52](https://user-images.githubusercontent.com/72682683/131010224-495e77d0-8896-4fa4-b5e7-3de0c86c690f.png)
-![53](https://user-images.githubusercontent.com/72682683/131010243-92b59bf4-e62d-40b5-b825-9e8894d11d89.png)
-![54](https://user-images.githubusercontent.com/72682683/131010255-3528f980-1f1d-4d44-8ac8-feaec2c1fe1c.png)
-![55](https://user-images.githubusercontent.com/72682683/131010263-306fd0be-f373-4b5e-9314-5bcf9c4b2c91.png)
-![56](https://user-images.githubusercontent.com/72682683/131010275-f31076b0-0927-4326-b219-b7ed1c79cd37.png)
-
-**Assignment-6 :**
-
-**-------Bezier curve Code---------**
-
-![61](https://user-images.githubusercontent.com/72682683/131010293-c513accb-2c3c-46a3-a7de-03e5423492a3.png)
-![62](https://user-images.githubusercontent.com/72682683/131010303-c2abf7f5-b0f1-4555-8c7c-fac7078fdd7d.png)
-![63](https://user-images.githubusercontent.com/72682683/131010312-f81bf9b9-55f2-4fa9-b566-71fd6fa5ac57.png)
+## [Assignment-6 : Bezier curve](https://github.com/shinchancode/Computer-Graphics/tree/main/%5B6%5D%20Bezier%20curve)
+**[6] Generate fractal patterns using Bezier curve.**
